@@ -15,3 +15,9 @@ hexo全局安装<br>
 
 admin后台访问<br>
 `localhost:4000\admin`
+
+日志文件均放在
+`source\_posts`
+
+主题修改目录
+`themes\next`
